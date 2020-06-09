@@ -1,0 +1,13 @@
+
+#Node.js/npm
+/node_modules/
+
+# Directory setting files
+Thumbs.db
+.DS_Store
+
+# temporary & log files
+*.log
+*.swp
+*.tmp
+*~
